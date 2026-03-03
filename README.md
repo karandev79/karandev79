@@ -3,15 +3,15 @@
 
 ------
 
-🔭 Currently building **[Qein Technologies](https://qeintech.in)** and projects like **[BioNav](https://github.com/Karandev2007/BioNav)** & **KyraAI**, **[KyraDock](https://github.com/karandev79/KyraDock)**, **[Zentra](https://github.com/karandev79/FusionRack)**, **[AstraDeck](https://github.com/karandev79/AstraDeck)** & More
+🔭 Currently building **[Qein Technologies](https://qeintech.com)** and projects like **[BioNav](https://github.com/Karandev2007/BioNav)** & **KyraAI**, **[KyraDock](https://github.com/karandev79/KyraDock)**, **[Zentra](https://github.com/karandev79/FusionRack)**, **[AstraDeck](https://github.com/karandev79/AstraDeck)** & More
 
 🌱 Learning & exploring **Python, Next.js, PCB Designing, and CAD**.  
 
 👯 Open to collaborating on **health tech, AI, and cloud-based projects**. 
 
-👨‍💻 Portfolio & projects: **[karan.qeintech.in](https://karandev.vercel.app)**  
+👨‍💻 Portfolio & projects: **[karan.qeintech.com](https://karandev.vercel.app)**  
 
-📫 Reach me at: **karan@qeintech.in** 
+📫 Reach me at: **karan@qeintech.com** 
 
 
 <h3 align="left">Connect with me:</h3>
