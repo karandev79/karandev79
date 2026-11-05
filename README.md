@@ -9,7 +9,7 @@
 
 👯 Open to collaborating on **health tech, AI, and cloud-based projects**. 
 
-👨‍💻 Portfolio & projects: **[karan.qeintech.com](https://karandev.vercel.app)**  
+👨‍💻 Portfolio & projects: **[karan.qeintech.com](https://karan.qeintech.com)**  
 
 📫 Reach me at: **karan@qeintech.com** 
 
